@@ -1,6 +1,1 @@
-<a href='https://github.com/wils0n-op/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/wils0n-op/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/wils0n-op/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+<a href="https://github.com/wils0n-op"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wils0n-op&layout=compact"></a>
